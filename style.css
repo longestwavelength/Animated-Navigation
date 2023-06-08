@@ -8,7 +8,7 @@
 body {
     background-color: #70a1ff;
     background-image: linear-gradient(to bottom, #70a1ff 0%, #70a1ff 50%, #7bed9f 50%, #7bed9f 100%);
-    font-family: 'Lato', sans-serif;
+    font-family: 'Muli', sans-serif;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -19,7 +19,7 @@ body {
 nav {
     background-color: white;
     padding: 20px;
-    width: 75px;
+    width: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
